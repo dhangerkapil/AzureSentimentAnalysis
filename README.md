@@ -3,7 +3,8 @@
 Sentiment Analysis with Storage Queues, Azure Function, Logic Apps, Cosmos DB, and Power BI
 
 High-Level Overview of the solution 
- 
+
+ ![Alt text](/images/overall_architecture.png?raw=true "Optional Title")
 
 1.	In the Azure portal, create an empty logic app by following the instructions in Create your logic app. When you see the Logic Apps Designer, return to this tutorial.
 2.	Once you are done with the logic app, it will look like this
